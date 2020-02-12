@@ -10,6 +10,8 @@ package project;
  * enough to be instantiated for any Card game. Students wishing to add to the code 
  * should remember to add themselves as a modifier.
  * @author megha, 2020
+ * @author Anirudh Palakkal 991581618
+ * @author Mohamad Hamadeh 991494788
  */
 public abstract class Card 
 {
